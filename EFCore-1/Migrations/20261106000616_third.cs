@@ -5,7 +5,7 @@
 namespace EFCore_1.Migrations
 {
     /// <inheritdoc />
-    public partial class third : Migration
+    public partial class third : Migration 
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
